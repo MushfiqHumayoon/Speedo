@@ -31,7 +31,3 @@ Speedo provides cyclists with a convenient tool to monitor their cycling speed i
 
 1. Access the ride history section within the app.
 2. View past rides, including details such as distance, duration, and average speed.
-
-## License
-
-Speedo is licensed under the [MIT License](LICENSE).
